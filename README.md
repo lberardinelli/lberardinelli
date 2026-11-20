@@ -28,10 +28,22 @@ model tool chain.
 | Plant engineering | AutomationML / CAEX (IEC 62714) |
 | Model management | OMG MOF / Eclipse Ecore, QVT Operational, OCL, BPMN |
 
+### International projects and proposals
+- **Acquired and led JKU's participation** in two large European projects co-funded by the EU and FFG:
+  - [AIDOaRt](https://cordis.europa.eu/project/id/101007350) (H2020-ECSEL, 2021–24): national coordinator for Austria,
+    32 partners in 7 countries, JKU budget €594k; coordinated AVL, Dynatrace, TU Graz and AIT and the reporting to FFG.
+  - [MATISSE](https://cordis.europa.eu/project/id/101140216) (HORIZON-KDT-JU, 2024–27): federated digital twins with
+    SysML v2 and AAS, 30+ partners, JKU budget €397k, Siemens e-charging use case.
+- Proposal writing and consortium building for European (Horizon Europe, KDT/Chips JU, ITEA) and national
+  (FFG co-funding) calls, together with industrial and academic partners.
+- 15+ years in international consortia: FP6 PLASTIC, ARTEMIS PRESTO and CRAFTERS, H2020 U-Test,
+  MSCA ITN Lowcomote (mentoring early-stage researchers), ITEA BUMBLE and HybridDLUX, the Christian Doppler
+  Laboratory CDL-MINT; research positions in Italy and Austria.
+
 ### Model-driven engineering
 - 15+ years of research and industrial projects: metamodeling, DSLs, model transformations
   (QVTo, ATL, Epsilon), co-evolution, non-functional analysis, DevOps for models (DevOpsML).
-- Austrian national coordinator of the EU project AIDOaRt (32 partners); technical lead at Braintribe.
+- Technical lead at Braintribe (Tribefire platform).
 
 ### Model-based, spec-driven engineering with LLM agents
 - **Agentic model management**: a reference architecture for MDE over the Model Context Protocol.
