@@ -2,14 +2,20 @@
 
 **Digital Twin Engineering** · **Model-Driven Engineering** · **Model-based, spec-driven engineering with LLM agents**
 
-I engineer digital twins from system models: from SysML v2 and AutomationML descriptions of
-machines and plants to standard-compliant Asset Administration Shells, and lately with LLM agents
-that operate the model tool chain.
+I engineer digital twins from system models: from **SysML v2** descriptions of machines and plants to
+standard-compliant **Asset Administration Shells (AAS)**, and lately with LLM agents that operate the
+model tool chain.
+
+> **Featured — SysML v2 → Asset Administration Shell**
+> E. Ferko, L. Berardinelli, A. Bucaioni, M. Behnam, M. Wimmer.
+> [*From Engineering Models to Digital Twins: Generating AAS from SysML v2 Models*](https://doi.org/10.1016/j.jss.2025.112688),
+> Journal of Systems and Software.
+> A model transformation that turns SysML v2 engineering models into AAS, so that the digital twin
+> is derived from the same model the engineers design with. Validated on the 24 OMG SysML v2 test models.
 
 ### Digital twin engineering
-- **SysML v2 → Asset Administration Shell**: model transformation that generates AAS from SysML v2
-  models, validated on the 24 OMG SysML v2 test models (Journal of Systems and Software);
-  higher-order transformations for SysML–AAS interoperability (ICSA 2024).
+- **SysML v2 → AAS** (journal paper above), building on higher-order transformations that integrate
+  SysML into AAS ([ICSA 2024](https://doi.org/10.1109/ICSA-C63560.2024.00063)).
 - Federated digital twins of industrial systems (DATE 2025, multi-partner project) and
   barriers and enablers for traceability and federation in model-based digital twin engineering (IST 2026).
 - Industrial use cases with Siemens (EV charging), AVL, Volvo, B&R and TGW Logistics.
