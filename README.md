@@ -1,6 +1,6 @@
 # Luca Berardinelli
 
-**Digital Twin Engineering** · **Model-Driven Engineering** · **GenAI for engineering tools**
+**Digital Twin Engineering** · **Model-Driven Engineering** · **Model-based, spec-driven engineering with LLM agents**
 
 I engineer digital twins from system models: from SysML v2 and AutomationML descriptions of
 machines and plants to standard-compliant Asset Administration Shells, and lately with LLM agents
@@ -27,9 +27,19 @@ that operate the model tool chain.
   (QVTo, ATL, Epsilon), co-evolution, non-functional analysis, DevOps for models (DevOpsML).
 - Austrian national coordinator of the EU project AIDOaRt (32 partners); technical lead at Braintribe.
 
-### GenAI for engineering tools
-- LLM agents and MCP servers that drive model-management tool chains (Epsilon/EMF),
-  agent skills for engineering workflows, RAG pipelines, self-hosted LLMOps (LiteLLM, MLflow, Langfuse).
+### Model-based, spec-driven engineering with LLM agents
+- **Agentic model management**: a reference architecture for MDE over the Model Context Protocol.
+  A gateway federates model-management providers (REST4Models, the ATL Zoo, Epsilon EVL/EGL) as MCP
+  tools; every capability is described by a model (Ecore descriptor, validated with EVL) from which
+  CLI, MCP tools and BPMN workflows are generated. LLM agents (Claude or a local model) plan and run
+  transformation chains from a web workbench with a megamodel view, BPMN and run log.
+- **Spec-driven development with agents**: requirements kept as a model (EARS statements with
+  executable verification) that generates the agents' backlog; schema-validated task briefs as
+  contracts between planning and implementation agents; every task verified by execution and
+  code-reviewed before commit.
+- **Agent skills for engineering**: natural language → SysML v2 models checked against a parser
+  oracle; UML architecture views generated from a model; literature and paper workflows.
+- Instrumented and self-hosted: LiteLLM, Langfuse, MLflow.
 - Several of these are in preparation for publication.
 
 ### Selected publications
