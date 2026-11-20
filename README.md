@@ -1,6 +1,6 @@
 # Luca Berardinelli, PhD
 
-PhD in Computer Science (Doctor Europaeus), University of L'Aquila · 15+ years in research and industry
+PhD in Computer Science · 15+ years in research and industry
 
 **Digital Twin Engineering** · **Model-Driven Engineering** · **Model-based, spec-driven engineering with LLM agents**
 
