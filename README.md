@@ -29,7 +29,7 @@ that operate the model tool chain.
 
 ### Model-based, spec-driven engineering with LLM agents
 - **Agentic model management**: a reference architecture for MDE over the Model Context Protocol.
-  A gateway federates model-management providers (REST4Models, the ATL Zoo, Epsilon EVL/EGL) as MCP
+  A gateway federates model-management providers (ATL transformations, Epsilon EVL/EGL, model repositories) as MCP
   tools; every capability is described by a model (Ecore descriptor, validated with EVL) from which
   CLI, MCP tools and BPMN workflows are generated. LLM agents (Claude or a local model) plan and run
   transformation chains from a web workbench with a megamodel view, BPMN and run log.
