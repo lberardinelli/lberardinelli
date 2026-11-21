@@ -32,10 +32,15 @@ model tool chain.
 
 ### International projects and proposals
 - **Acquired and led JKU's participation** in two large European projects co-funded by the EU and FFG:
-  - [AIDOaRt](https://cordis.europa.eu/project/id/101007350) (H2020-ECSEL, 2021–24): national coordinator for Austria,
-    32 partners in 7 countries, JKU budget €594k; coordinated AVL, Dynatrace, TU Graz and AIT and the reporting to FFG.
-  - [MATISSE](https://cordis.europa.eu/project/id/101140216) (HORIZON-KDT-JU, 2024–27): federated digital twins with
-    SysML v2 and AAS, 30+ partners, JKU budget €397k, Siemens e-charging use case.
+  - [AIDOaRt](https://cordis.europa.eu/project/id/101007350) (H2020-ECSEL, 2021–24) — *AI-augmented automation
+    for efficient DevOps*: a model-based framework that supports teams in requirements, monitoring, modelling,
+    coding and testing during the continuous development of cyber-physical systems, validated on 10 industrial
+    use cases (automotive, railway, maritime, software). National coordinator for Austria, 32 partners in
+    7 countries, JKU budget €609k; coordinated AVL, Dynatrace, TU Graz and AIT and the reporting to FFG.
+  - [MATISSE](https://cordis.europa.eu/project/id/101140216) (HORIZON-KDT-JU, 2024–27) — *Model-based engineering
+    of digital twins for early verification and validation of industrial systems*: automated creation and
+    continuous validation of digital twins, and a multi-domain digital twin toolchain for V&V. Federated digital
+    twins with SysML v2 and AAS, 30+ partners in 7 countries, JKU budget €397k, Siemens e-charging use case.
 - Proposal writing and consortium building for European (Horizon Europe, KDT/Chips JU, ITEA) and national
   (FFG co-funding) calls, together with industrial and academic partners.
 - 15+ years in international consortia: FP6 PLASTIC, ARTEMIS PRESTO and CRAFTERS, H2020 U-Test,
