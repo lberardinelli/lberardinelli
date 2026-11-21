@@ -74,33 +74,49 @@ model tool chain.
 
 ### Tech stack
 
-**GenAI & agents**  
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claudecode&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-000000?logo=modelcontextprotocol&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?logo=notebooklm&logoColor=white)
-![faster-whisper](https://img.shields.io/badge/faster--whisper-555555)
+**GenAI & agents**
 
-**LLMOps & platform**  
-![LiteLLM](https://img.shields.io/badge/LiteLLM-555555)
-![Langfuse](https://img.shields.io/badge/Langfuse-555555)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF91AC?logo=n8n&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-555555)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<p>
+  <a href="https://claude.com/product/claude-code"><img src="icons/claudecode.svg" alt="Claude Code" title="Claude Code" height="40"></a>&nbsp;&nbsp;
+  <a href="https://claude.com/product/overview"><img src="icons/claude.svg" alt="Claude" title="Claude" height="40"></a>&nbsp;&nbsp;
+  <a href="https://modelcontextprotocol.io"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/modelcontextprotocol-dark.svg"><img src="icons/modelcontextprotocol.svg" alt="Model Context Protocol" title="Model Context Protocol" height="40"></picture></a>&nbsp;&nbsp;
+  <a href="https://gemini.google.com"><img src="icons/googlegemini.svg" alt="Gemini" title="Gemini" height="40"></a>&nbsp;&nbsp;
+  <a href="https://ollama.com"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/ollama-dark.svg"><img src="icons/ollama.svg" alt="Ollama" title="Ollama" height="40"></picture></a>&nbsp;&nbsp;
+  <a href="https://qdrant.tech"><img src="icons/qdrant.svg" alt="Qdrant" title="Qdrant" height="40"></a>&nbsp;&nbsp;
+  <a href="https://notebooklm.google"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/notebooklm-dark.svg"><img src="icons/notebooklm.svg" alt="NotebookLM" title="NotebookLM" height="40"></picture></a>&nbsp;&nbsp;
+  <a href="https://github.com/SYSTRAN/faster-whisper"><img src="https://img.shields.io/badge/faster--whisper-555555" alt="faster-whisper" title="faster-whisper" height="28"></a>&nbsp;&nbsp;
+</p>
 
-**Modeling & digital twins**  
-![SysML v2](https://img.shields.io/badge/SysML_v2-555555)
-![Eclipse EMF](https://img.shields.io/badge/Eclipse_EMF-2C2255?logo=eclipseide&logoColor=white)
-![Epsilon](https://img.shields.io/badge/Epsilon-555555)
-![ATL](https://img.shields.io/badge/ATL-555555)
-![Eclipse BaSyx (AAS)](https://img.shields.io/badge/Eclipse_BaSyx_(AAS)-555555)
-![AutomationML](https://img.shields.io/badge/AutomationML-555555)
+**LLMOps & platform**
 
+<p>
+  <a href="https://www.litellm.ai"><img src="icons/litellm.svg" alt="LiteLLM" title="LiteLLM" height="40"></a>&nbsp;&nbsp;
+  <a href="https://langfuse.com"><img src="icons/langfuse.svg" alt="Langfuse" title="Langfuse" height="40"></a>&nbsp;&nbsp;
+  <a href="https://mlflow.org"><img src="icons/mlflow.svg" alt="MLflow" title="MLflow" height="40"></a>&nbsp;&nbsp;
+  <a href="https://prometheus.io"><img src="icons/prometheus.svg" alt="Prometheus" title="Prometheus" height="40"></a>&nbsp;&nbsp;
+  <a href="https://grafana.com"><img src="icons/grafana.svg" alt="Grafana" title="Grafana" height="40"></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com"><img src="icons/docker.svg" alt="Docker" title="Docker" height="40"></a>&nbsp;&nbsp;
+  <a href="https://n8n.io"><img src="icons/n8n.svg" alt="n8n" title="n8n" height="40"></a>&nbsp;&nbsp;
+  <a href="https://playwright.dev"><img src="icons/playwright.svg" alt="Playwright" title="Playwright" height="40"></a>&nbsp;&nbsp;
+  <a href="https://www.python.org"><img src="icons/python.svg" alt="Python" title="Python" height="40"></a>&nbsp;&nbsp;
+</p>
+
+**IDEs**
+
+<p>
+  <a href="https://code.visualstudio.com"><img src="icons/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="40"></a>&nbsp;&nbsp;
+  <a href="https://theia-ide.org"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/theia-dark.svg"><img src="icons/theia.svg" alt="Eclipse Theia" title="Eclipse Theia" height="40"></picture></a>&nbsp;&nbsp;
+  <a href="https://eclipseide.org"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/eclipseide-dark.svg"><img src="icons/eclipseide.svg" alt="Eclipse IDE" title="Eclipse IDE" height="40"></picture></a>&nbsp;&nbsp;
+</p>
+
+**Modeling & digital twins**
+
+<p>
+  <a href="https://eclipse.dev/epsilon/"><img src="icons/epsilon.svg" alt="Eclipse Epsilon" title="Eclipse Epsilon" height="40"></a>&nbsp;&nbsp;
+  <a href="https://eclipse.dev/basyx/"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/basyx-dark.svg"><img src="icons/basyx.svg" alt="Eclipse BaSyx (AAS)" title="Eclipse BaSyx (AAS)" height="40"></picture></a>&nbsp;&nbsp;
+  <a href="https://www.omg.org/sysml/sysmlv2/"><img src="https://img.shields.io/badge/SysML_v2-555555" alt="SysML v2" title="SysML v2" height="28"></a>&nbsp;&nbsp;
+  <a href="https://eclipse.dev/emf/"><img src="https://img.shields.io/badge/Eclipse_EMF-555555" alt="Eclipse EMF" title="Eclipse EMF" height="28"></a>&nbsp;&nbsp;
+  <a href="https://eclipse.dev/atl/"><img src="https://img.shields.io/badge/Eclipse_ATL-555555" alt="Eclipse ATL" title="Eclipse ATL" height="28"></a>&nbsp;&nbsp;
+  <a href="https://www.automationml.org"><img src="https://img.shields.io/badge/AutomationML-555555" alt="AutomationML" title="AutomationML" height="28"></a>&nbsp;&nbsp;
+</p>
 Open to R&D roles, consulting and research collaborations — [LinkedIn](https://www.linkedin.com/in/lucaberardinelli/).
