@@ -57,9 +57,10 @@ model tool chain.
   executable verification) that generates the agents' backlog; schema-validated task briefs as
   contracts between planning and implementation agents; every task verified by execution and
   code-reviewed before commit.
-- **Agent skills for engineering**: natural language → SysML v2 models checked against a parser
+- **Agent skills for engineering**, built with **Claude Code as the agent harness** (skills, subagents,
+  hooks, headless runs): natural language → SysML v2 models checked against a parser
   oracle; UML architecture views generated from a model; literature and paper workflows.
-- Instrumented and self-hosted: LiteLLM, Langfuse, MLflow.
+- Run on a self-hosted GenAI platform (see *Tech stack* below).
 - Several of these are in preparation for publication.
 
 ### Selected publications
@@ -70,5 +71,36 @@ model tool chain.
 - [Cross-disciplinary engineering with AutomationML and SysML](https://doi.org/10.1515/auto-2015-0076) — at – Automatisierungstechnik, 2016
 - [AIDOaRt: AI-augmented Automation for DevOps, a model-based framework for continuous development in CPS](https://doi.org/10.1016/j.micpro.2022.104672) — Microprocessors and Microsystems, 2022
 - Full list: [Google Scholar](https://scholar.google.com/citations?user=r1lCltMAAAAJ)
+
+### Tech stack
+
+**GenAI & agents**  
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claudecode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-000000?logo=modelcontextprotocol&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?logo=notebooklm&logoColor=white)
+![faster-whisper](https://img.shields.io/badge/faster--whisper-555555)
+
+**LLMOps & platform**  
+![LiteLLM](https://img.shields.io/badge/LiteLLM-555555)
+![Langfuse](https://img.shields.io/badge/Langfuse-555555)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF91AC?logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-555555)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+**Modeling & digital twins**  
+![SysML v2](https://img.shields.io/badge/SysML_v2-555555)
+![Eclipse EMF](https://img.shields.io/badge/Eclipse_EMF-2C2255?logo=eclipseide&logoColor=white)
+![Epsilon](https://img.shields.io/badge/Epsilon-555555)
+![ATL](https://img.shields.io/badge/ATL-555555)
+![Eclipse BaSyx (AAS)](https://img.shields.io/badge/Eclipse_BaSyx_(AAS)-555555)
+![AutomationML](https://img.shields.io/badge/AutomationML-555555)
 
 Open to R&D roles, consulting and research collaborations — [LinkedIn](https://www.linkedin.com/in/lucaberardinelli/).
